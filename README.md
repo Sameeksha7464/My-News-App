@@ -1,1 +1,1 @@
-# Web-Development-newzs-app
+# Web-Development-news-app
